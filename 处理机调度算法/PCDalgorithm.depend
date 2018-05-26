@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494589554 source:c:\users\administrator\desktop\pcdalgorithm\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

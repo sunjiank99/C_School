@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1419828859 source:c:\users\administrator\desktop\aaaa\main.c
+	<stdio.h>
+	<time.h>
+	"color.h"
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
+1356428736 c:\users\administrator\desktop\aaaa\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1426049963 source:d:\desktop\aaaa\main.c
+	<stdio.h>
+	<time.h>
+	"color.h"
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
+1356428736 d:\desktop\aaaa\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
